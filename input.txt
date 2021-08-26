@@ -1,0 +1,8 @@
+INSERT INTO table_name (CustomerName, ContactName, Address, City, PostalCode, Country) VALUES ('xCardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+INSERT INTO table_name (CustomerName, ContactName, Address, City, PostalCode, Country) VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+INSERT INTO table_name (CustomerName, ContactName, Address, City, PostalCode, Country) VALUES ('xCardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+INSERT INTO table_name (CustomerName, ContactName, Address, City, PostalCode, Country) VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+INSERT INTO table_name (CustomerName, ContactName, Address, City, PostalCode, Country) VALUES ('xCardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Norway');
+INSERT INTO table_name (CustomerName, ContactName, Address, City, PostalCode, Country) VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Berlin');
+INSERT INTO table_name (CustomerName, ContactName, Address, City, PostalCode, Country) VALUES ('xCardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'India');
+INSERT INTO table_name (CustomerName, ContactName, Address, City, PostalCode, Country) VALUES ('Cardinal', 'Tom B. Erichsen', 'Skagen 21', 'Stavanger', '4006', 'Pakistan');
